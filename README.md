@@ -1,4 +1,4 @@
-# Narasimha — Data Engineer in the making 👋
+# Sudharsan Narasimha Jajula — Data Engineer  👋
 
 I'm an MS Data Science student at the University at Buffalo, training to become a data engineer. I don't do tutorial projects — I rebuild real systems from scratch, understand every line, and document the journey.
 

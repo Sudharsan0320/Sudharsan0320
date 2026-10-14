@@ -6,6 +6,11 @@ I'm an MS Data Science student at the University at Buffalo, training to become 
 
 **Data Engineer.** Building end-to-end pipeline skills through production-grade projects: ingestion, versioned storage, validation gates, and orchestration.
 
+## 💼 Experience
+
+**Intern — Troy & Banks** (2026 – present)
+Utility & telecom auditing firm. I work in the same domain as my tariff-audit-engine — real-world audit workflows on one side, the systems I'm building on the other.
+
 ## 🔭 Flagship project
 
 **[tariff-audit-engine](https://github.com/Sudharsan0320/tariff-audit-engine)** — a production-grade electricity tariff audit engine:
@@ -33,7 +38,7 @@ BTech Mechatronics → MPS Data Science @ UB → now going all in on data engine
 
 ## ⚡ Fun facts
 
-- My best study hours start at 4 AM
+- My best study hours start at early hours
 - I automate the boring stuff so I can spend time on the hard stuff
 - Currently reading: database internals, one chapter at a time
 
